@@ -9,6 +9,8 @@ updates automatically.
 - `style.css` — cinematic dark/light theme, layout, animations
 - `script.js` — app logic (categories, totals, budget dial, local storage)
 
+## Run it
+Just open `index.html` in any browser — no build step, no server needed.
 
 ## Data storage
 Expenses and your monthly budget are saved to the browser's `localStorage`,
