@@ -9,12 +9,6 @@ updates automatically.
 - `style.css` — cinematic dark/light theme, layout, animations
 - `script.js` — app logic (categories, totals, budget dial, local storage)
 
-## Run it
-Just open `index.html` in any browser — no build step, no server needed.
-
-## Host it (to get a shareable link)
-Drag this whole folder into https://app.netlify.com/drop, or push it to a
-GitHub repo and enable GitHub Pages.
 
 ## Data storage
 Expenses and your monthly budget are saved to the browser's `localStorage`,
